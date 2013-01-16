@@ -1,0 +1,3 @@
+Public Domain.
+
+Has the same effect as saurik's uiduid from UIKit Tools, except instead of using -[UIDevice uniqueIdentifier] it uses liblockdown APIs.
